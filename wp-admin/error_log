@@ -1,0 +1,1 @@
+[22-Oct-2015 20:48:17 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home2/smartbri/public_html/wp-content/plugins/wp-mail-bank/wp-mail-bank.php on line 34
